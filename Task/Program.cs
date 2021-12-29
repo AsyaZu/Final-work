@@ -34,7 +34,6 @@ string CreateNewArray(int[] array)
 
 
 int[] array = new int[5];
-int[] newArray = new int[5];
 FillArray(array);
 Console.WriteLine(PrintArray(array));
 Console.WriteLine(CreateNewArray(array));
